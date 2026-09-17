@@ -15,6 +15,8 @@ Some of my professional work is maintained in **private repositories** because i
 ### Languages & Frameworks
 
 * Python
+* Angular
+* Nest
 * JavaScript / TypeScript
 * PHP / Laravel
 * React
